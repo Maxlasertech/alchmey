@@ -7,7 +7,7 @@ local function calcvaluemulti()
 end
 
 local function getdata()
-    return 0
+    return {}
 end
 
 return function(p4)
